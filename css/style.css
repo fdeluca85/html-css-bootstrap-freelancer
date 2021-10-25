@@ -1,3 +1,16 @@
-.my-bg-pink{
-    background-color: blueviolet;
+.ms_bg-navbar{
+    background-color: #2C3E50;
+}
+.ms_bg-avatar{
+    background-color: #1ABC9C;
+}
+.ms_blocco-50{
+    background-color: burlywood;
+    height: 50px;
+    border: 1px solid black;
+}
+.ms_blocco-300{
+    background-color: indigo;
+    height: 200px;
+    border: 1px solid black;
 }
