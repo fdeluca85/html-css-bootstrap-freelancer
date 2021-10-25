@@ -9,8 +9,9 @@
     height: 50px;
     border: 1px solid black;
 }
-.ms_blocco-300{
-    background-color: indigo;
+.ms_blocco-200{
+    background-color: lawngreen;
     height: 200px;
+    width: 300px;
     border: 1px solid black;
 }
