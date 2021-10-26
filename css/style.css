@@ -20,8 +20,16 @@
 .ms_footer_bg{
     background-color:#3A546D;
 }
-.ms_circle{
-    
-    border-radius: 50%;
-   
+.ms_circle{    
+    border-radius: 50%;   
+}
+
+.stella:before,
+.stella::after {
+    display: inline-block;
+    content: "";
+    border: 2px solid;
+    border-radius: 5px;
+    width: 4rem;
+    margin: 0 1rem;
 }
